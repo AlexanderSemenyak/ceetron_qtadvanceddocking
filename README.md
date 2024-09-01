@@ -1,4 +1,4 @@
-![ukraine](doc/ukraine.jpg)
+origin: https://github.com/CeetronSolutions/qtadvanceddocking
 
 ![logo](doc/ads_logo.svg)
 
